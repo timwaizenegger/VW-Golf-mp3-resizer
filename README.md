@@ -14,6 +14,10 @@ So you need to limit the cover art size to 400x400 pixel when you play MP3s from
 the program is very short and low-tech. It walks over the "*.mp3" files in one directory. Set the directory directly in the program.
 
 
+# Limitations
+it's not very clever; just resizes the "APIC:Cover" thing to 400x400. So if the source wasn't quadratic in size, it will be distorted. It also doesn't exit if the source is smaller... Everything will be 400x400!
+
+
 # Dependencies
 mutagen, PIL
 
