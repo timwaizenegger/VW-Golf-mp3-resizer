@@ -20,3 +20,7 @@ mutagen, PIL
 # Python
 uses version 3 (I didn't test it on python2.7)
 
+
+# Example
+No cover art because jpeg is too large: ![too large](/doc/DSC_0003.jpg "no cover art")
+cover art visible; it's 400x400 pixels now: ![just right](/doc/DSC_0004.jpg "cover art visible")
