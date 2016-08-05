@@ -17,3 +17,6 @@ the program is very short and low-tech. It walks over the "*.mp3" files in one d
 # Dependencies
 mutagen, PIL
 
+# Python
+uses version 3 (I didn't test it on python2.7)
+
